@@ -1,6 +1,5 @@
 ![](gaming.jpg)
 # Video Game Sales Analysis 📊🎮  
-![](gaming.jpg)
 ## Overview  
 This project analyzes global video game sales trends from 1977 to 2024 using **Excel** for ETL, visualization, and insights.  
 

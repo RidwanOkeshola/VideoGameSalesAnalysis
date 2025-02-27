@@ -1,4 +1,4 @@
-![](gaming.jfif)
+![](gaming.jpg)
 # Video Game Sales Analysis 📊🎮  
 ![](gaming.jpg)
 ## Overview  

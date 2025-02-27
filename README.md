@@ -17,8 +17,7 @@ This project analyzes global video game sales trends from 1977 to 2024 using **E
 Below are key insights from the dashboard:  
 ![](sales.png)
 ![](title-1.png)
-![](region.png)  
-
+![](region.png) 
 ## Tools Used  
 ✅ **Microsoft Excel** - Data cleaning, visualization, and analysis  
 

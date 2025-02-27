@@ -1,3 +1,4 @@
+![](gaming.jfif)
 # Video Game Sales Analysis 📊🎮  
 ![](gaming.jpg)
 ## Overview  
@@ -15,7 +16,7 @@ This project analyzes global video game sales trends from 1977 to 2024 using **E
 
 ## Visuals  
 Below are key insights from the dashboard:  
-![](gaming Sales trend-1.png)
+!gaming Sales trend-1.png)
 ![](title-1.png)
 ![](region sales trend-1.png)  
 

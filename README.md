@@ -1,5 +1,5 @@
 # Video Game Sales Analysis 📊🎮  
-
+![](gaming.jpg)
 ## Overview  
 This project analyzes global video game sales trends from 1977 to 2024 using **Excel** for ETL, visualization, and insights.  
 
@@ -15,15 +15,15 @@ This project analyzes global video game sales trends from 1977 to 2024 using **E
 
 ## Visuals  
 Below are key insights from the dashboard:  
-!(gaming Sales trend-1.png)  
-!(title-1.png)
-!(region sales trend-1.png)  
+![](gaming Sales trend-1.png)
+![](title-1.png)
+![](region sales trend-1.png)  
 
 ## Tools Used  
 ✅ **Microsoft Excel** - Data cleaning, visualization, and analysis  
 
 ## Author  
 [Ridwan D. Okeshola] – [LinkedIn Profile](https://www.linkedin.com/in/ridwanokeshola)  
-
+**Link to Dashboard File:** [Gaming Sales Dashboard](https://drive.google.com/file/d/1LmPwQzW4QbtUoM1zlzO6TJZkyPMVZVe1/view?usp=sharing)
 ## Contact  
 Feel free to reach out for collaborations or questions! 🚀  
